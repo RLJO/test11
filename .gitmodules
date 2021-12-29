@@ -1,0 +1,4 @@
+[submodule "RLJO/SLI"]
+	path = RLJO/SLI
+	url = git@github.com:RLJO/SLI.git
+	branch = master
