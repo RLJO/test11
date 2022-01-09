@@ -2,3 +2,8 @@
 	path = RLJO/SLI
 	url = git@github.com:RLJO/SLI.git
 	branch = master
+
+[submodule "odootechos/jean-bouteille"]
+	path = odootechos/jean-bouteille
+	url = git@github.com:odootechos/jean-bouteille.git
+	branch = main
