@@ -12,3 +12,8 @@
 	path = matteopolleschi/odoo_partner_certificates
 	url = git@github.com:matteopolleschi/odoo_partner_certificates.git
 	branch = 14.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 14.0
