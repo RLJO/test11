@@ -7,3 +7,8 @@
 	path = odootechos/jean-bouteille
 	url = git@github.com:odootechos/jean-bouteille.git
 	branch = main
+
+[submodule "matteopolleschi/odoo_partner_certificates"]
+	path = matteopolleschi/odoo_partner_certificates
+	url = git@github.com:matteopolleschi/odoo_partner_certificates.git
+	branch = 14.0
